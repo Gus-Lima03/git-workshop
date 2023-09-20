@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ola mundo
 ola planeta
+=======
+ola mundo, this stinks aa 
+>>>>>>> grupo3
